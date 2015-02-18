@@ -12,7 +12,7 @@
   ResultsPerPage="10"
   Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
   ConditionTagExpression="include[General.green]exclude[General.red]"
-  DefaultUrl="/Content/Home.htm">
+  DefaultUrl="/Content/B_Links and Lists/Home.htm">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
