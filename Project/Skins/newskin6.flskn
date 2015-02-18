@@ -23,11 +23,11 @@
               Name="ExpandAll">
               <Properties>
                 <Property
-                  Name="PaddingLeft">16px</Property>
-                <Property
                   Name="PaddingRight">8px</Property>
                 <Property
                   Name="PaddingTop">16px</Property>
+                <Property
+                  Name="PaddingLeft">15px</Property>
               </Properties>
             </StyleClass>
           </Classes>

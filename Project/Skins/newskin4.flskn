@@ -1,7 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultSkin Version="2" 
-	SkinType="Component" 
+<CatapultSkin
+  Version="2"
+  SkinType="Component"
   Comment="HTML5 Search Bar skin"
-	ComponentType="SearchBar"
+  ComponentType="SearchBar"
   EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Search Filter">
+        <Properties>
+          <Property
+            Name="Color">#cd5c5c</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
 </CatapultSkin>
