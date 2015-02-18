@@ -1,6 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultSkin Version="2" 
-	SkinType="Component" 
+<CatapultSkin
+  Version="2"
+  SkinType="Component"
   Comment="HTML5 Search Results skin"
-	ComponentType="SearchResults">
+  ComponentType="SearchResults">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Search Result Link">
+        <Properties>
+          <Property
+            Name="FontFamily">Arial Black</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Pagination Item">
+        <Properties>
+          <Property
+            Name="FontFamily">Brush Script Std</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
 </CatapultSkin>

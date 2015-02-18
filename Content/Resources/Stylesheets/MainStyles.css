@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 body
 {
@@ -15,7 +15,7 @@ a
 
 a:link
 {
-	color: #2d82dc;	
+	color: #2d82dc;
 }
 
 a:visited
@@ -499,3 +499,14 @@ ul.SecondLevel
 {
 	list-style-image: url('../Images/Bullet2.png');
 }
+
+h1.Lively	/*fun fun fun*/
+{
+	font-size: 1.5em;
+	font-weight: normal;
+	margin-bottom: 8px;
+	margin-top: 20px;
+	padding-bottom: 10px;
+	font-family: 'Frutiger 77 Black Condensed';
+}
+
