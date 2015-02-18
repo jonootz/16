@@ -10,7 +10,7 @@
         Name="Search Result Link">
         <Properties>
           <Property
-            Name="FontFamily">Arial Black</Property>
+            Name="FontFamily">Adobe Gothic Std B</Property>
         </Properties>
       </Style>
       <Style
@@ -18,6 +18,8 @@
         <Properties>
           <Property
             Name="FontFamily">Brush Script Std</Property>
+          <Property
+            Name="FontSize">2em</Property>
         </Properties>
       </Style>
     </Styles>
