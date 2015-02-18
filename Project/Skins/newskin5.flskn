@@ -10,7 +10,7 @@
         Name="Search Result Link">
         <Properties>
           <Property
-            Name="FontFamily">Arial Black</Property>
+            Name="FontFamily">Arial</Property>
         </Properties>
       </Style>
       <Style
