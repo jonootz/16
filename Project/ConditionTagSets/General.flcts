@@ -2,10 +2,10 @@
 <CatapultConditionTagSet>
   <ConditionTag
     Comment=""
-    Name="Audience A"
+    Name="green"
     BackgroundColor="#90ee90" />
   <ConditionTag
     Comment=""
-    Name="Audience B"
+    Name="red"
     BackgroundColor="Red" />
 </CatapultConditionTagSet>
